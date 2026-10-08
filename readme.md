@@ -852,11 +852,11 @@ Get [OPML](https://raw.githubusercontent.com/dev-blog-directory/dev-blog-directo
 - [Codrops | Useful resources and inspiration for creative minds](https://tympanus.net/codrops/) ([Feed](https://tympanus.net/codrops/rss))
   <br>`#Personal` `#web-development`
 - [cognitive.io](https://cognitive.io/)
-- [coles.codes](https://coles.codes/) ([Feed](https://coles.codes/index.xml))
-  <br>`#Personal` `#aws` `#python` `#ai`
   <br>`#Personal` `#golang`
 - [Coinbase](https://engineering.coinbase.com/) ([Feed](https://engineering.coinbase.com/feed))
   <br>`#Team`
+- [coles.codes](https://coles.codes/) ([Feed](https://coles.codes/index.xml))
+  <br>`#Personal` `#aws` `#python` `#ai`
 - [Coletiv Studio Blog](https://coletiv.com/blog/) ([Feed](https://coletiv.com/rss.xml))
   <br>`#Team` `#ios`
 - [Colin Cummings](https://colinrcummings.github.io/blog/) ([Feed](https://colinrcummings.github.io/blog/rss.xml))
